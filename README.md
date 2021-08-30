@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Daniel! 👋
+---
 
-<!--
-**JustinDMcGraw/JustinDMcGraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a UX Engineer/Full-Stack Developer based in Mobile, Alabama.
 
-Here are some ideas to get you started:
+- ⚙️ I use daily: React, JS, CSS, HTML, Node.js, Python
+- 🌍 I support and volunteer with: **Human Rights First**
+- 💅 Active community member of: **Lambda School**
+- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
+- 💬 Ping me about: **web design**, **UX/UI**, **diversity & inclusion**, **mentorship**, **Military Jets**
+- 📫 Reach me asap: justindanielmcgraw@gmail.com
+- 💜 Interests: Military Simulation, D&D, foodie, My daughter Murphy!
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
+- More to come!
+
+---
