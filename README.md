@@ -13,7 +13,7 @@
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
-- 💼 Connect with me on <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/justindmcgraw/">LinkedIn</a>
 - More to come!
 
 ---
